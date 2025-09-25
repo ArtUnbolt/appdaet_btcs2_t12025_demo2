@@ -1,6 +1,6 @@
 """
 sample2.py
-Author: Jacob Catayoc
+Author: Jeremiah Santiago
 Date:   September 11, 2025
 """
 dividend = int(input("Enter dividend number: "))

@@ -1,4 +1,4 @@
-name = "Jake"
+name = "Jeremiah"
 print(name * 10)
 print(name[2])
 
